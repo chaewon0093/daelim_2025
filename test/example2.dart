@@ -1,7 +1,7 @@
 void main() {
   // final vs const
 
-  final now = DateTime.now();
+  var now = DateTime.now();
 
   print(now);
 }
